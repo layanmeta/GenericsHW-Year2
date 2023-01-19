@@ -1,5 +1,7 @@
 ﻿
-// See https://aka.ms/new-console-template for more information
+// ---- C# II (Dor Ben Dor) ----
+//  Layan Metanes + Liron Rotman
+// -----------------------------
 using GenericHW;
 
 class DiceInt : Dice<int>
